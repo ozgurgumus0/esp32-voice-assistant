@@ -1,0 +1,12 @@
+# Secrets (copy include/secrets.example.h -> include/secrets.h)
+include/secrets.h
+.env
+
+# PlatformIO build output
+.pio/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
